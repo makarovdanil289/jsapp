@@ -76,3 +76,5 @@ function chooseOptExpenses() {
         console.log(appData.optionalExpenses);
     }
 }
+
+chooseOptExpenses();
